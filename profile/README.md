@@ -16,8 +16,8 @@ If you encounter any issues with any BOII | Development resources, please do not
 
 <br>
 <p align="center">
-  <a href="https://discord.gg/MUckUyS5Kq"><img width="500" height="150" src="https://i.imgur.com/celMUyp.png"></a>
-  <a href="https://www.youtube.com/boiidevelopment"><img width="500" height="150" src="https://i.imgur.com/u7z5bjX.png"></a>
+  <a href="https://discord.gg/MUckUyS5Kq"><img width="300" height="100" src="https://i.imgur.com/celMUyp.png"></a>
+  <a href="https://www.youtube.com/boiidevelopment"><img width="300" height="100" src="https://i.imgur.com/u7z5bjX.png"></a>
 </p>
 
 ## 💰 Paid services
