@@ -7,7 +7,7 @@
 <br>
 Welcome to the official github for BOII | Development!<br>
 Every resource posted to our official github will forever remain entirely open soure.<br>
-We do use FiveM's native escrow system to protect our paid scripts however generally anything you would want to customise will be left open.<br> 
+We do use FiveM's native escrow system to protect our paid scripts however generally anything you would want to edit will be left open.<br> 
 Our discord support is generally active Monday to Friday 10:00-22:00(GMT).<br> 
 If you encounter any issues with any BOII | Development resources, please do not hesitate to reach out!
 <br>
