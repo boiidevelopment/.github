@@ -23,6 +23,8 @@ If you encounter any issues with any BOII | Development resources, please do not
 ## 💰 Paid services
 
 <br>
-<p align="left">
+<p align="center">
   <a href="https://boii.tebex.io"><img width="250" height="75" src="https://i.imgur.com/VwkBWH6.png"></a>
 </p>
+
+##
