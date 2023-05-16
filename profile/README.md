@@ -5,15 +5,18 @@
 ## 👋 About us
 
 <br>
-Welcome to the official github for BOII | Development!<br>
+<p>Welcome to the official github for BOII | Development!<br>
 Every resource posted to our official github will forever remain entirely open soure.<br>
 We do use FiveM's native escrow system to protect our paid scripts however generally anything you would want to edit will be left open.<br> 
 Our discord support is generally active Monday to Friday 10:00-22:00(GMT).<br> 
-If you encounter any issues with any BOII | Development resources, please do not hesitate to reach out!
+If you encounter any issues with any BOII | Development resources, please do not hesitate to reach out!</p>
+
+## 🧑‍🤝‍🧑 The Team
 <br>
 
-## 💻 Stay connected
+[![CaseIRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseirl&theme=dark)](https://ko-fi.com/case)
 
+## 💻 Stay connected
 <br>
 <p align="center">
   <a href="https://discord.gg/MUckUyS5Kq"><img width="300" height="100" src="https://i.imgur.com/celMUyp.png"></a>
