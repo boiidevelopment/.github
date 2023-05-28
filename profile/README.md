@@ -15,6 +15,7 @@ If you encounter any issues with any BOII | Development resources, please do not
 <br>
 
 [![CaseIRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseirl&theme=dark)](https://ko-fi.com/case)
+[![M0T0FAM93's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0t0fam93&theme=dark)]()
 
 ## 💻 Stay connected
 <br>
