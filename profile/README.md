@@ -11,12 +11,6 @@ We do use FiveM's native escrow system to protect our paid scripts however gener
 Our discord support is generally active Monday to Friday 10:00-22:00(GMT).<br> 
 If you encounter any issues with any BOII | Development resources, please do not hesitate to reach out!</p>
 
-## 🧑‍🤝‍🧑 The Team
-<br>
-
-[![CaseIRL's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseirl&theme=dark)](https://ko-fi.com/case)
-[![M0T0FAM93's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0t0fam93&theme=dark)]()
-
 ## 💻 Stay connected
 <br>
 <p align="center">
