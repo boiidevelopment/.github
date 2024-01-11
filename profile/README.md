@@ -44,6 +44,6 @@ Start exploring our free scripts today, and elevate your gaming experience to ne
 
 📹 **YouTube:** [Click here to view our YouTube channel!](https://youtube.com/boiidevelopment)
 
-💾 **GitHub:** [Click here to view our GitHub resources!](https:/github.com/boiidevelopment)
+💾 **GitHub:** [Click here to view our GitHub resources!](https://github.com/boiidevelopment)
 
-☕ **Ko-Fi:** [Click here to buy the team a coffee!](https:/ko-fi.com/boiidevelopment)
+☕ **Ko-Fi:** [Click here to buy the team a coffee!](https://ko-fi.com/boiidevelopment)
