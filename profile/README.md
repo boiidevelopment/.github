@@ -36,7 +36,16 @@ Start exploring our free scripts today, and elevate your gaming experience to ne
 
 📬 **Direct Touch:** For specific inquiries, reach us at support@boii.dev.
 
-## 💻 Our links
+## 💰 Support the team
+
+All resources posted to the boiidevelopment GitHub will forever be free.
+If you wish to support the team for providing you with some outstanding free resources then you can do so here. 
+
+☕ **Ko-Fi:** [Click here to buy the team a coffee!](https://ko-fi.com/boiidevelopment)
+
+*This is in no way expected of anyone, however it is greatly appreciated.*
+
+## 💻 Links
 
 💰 **Tebex:** [Click here to view our tebex store!](https://tebex.boii.dev)
 
