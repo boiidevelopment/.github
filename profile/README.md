@@ -1,63 +1,63 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/80e39085-50bd-4873-880e-62ce418e6d84" width="100" title="hover text">
+      <img src="https://github.com/user-attachments/assets/80e39085-50bd-4873-880e-62ce418e6d84" width="100" title="BOII Development">
     </td>
     <td>
-      <h1>🌟 Welcome to BOII Development!</h1>
-      <p>This github is used to host free open source BOII Dev resources, for paid resources visit https://boiidevelopment.tebex.io</p>
+      <h1>🛠️ BOII Development</h1>
+      <p><em>Home of utility-first, performance-driven FiveM resources.<br>Free, open, and occasionally sarcastic. For paid stuff, head to <a href="https://boiidevelopment.tebex.io">our Tebex store</a></em></p>
     </td>
   </tr>
 </table>
 
+# 👋 Welcome
 
-## 👋 About us
+Welcome to **BOII Development** — your friendly neighborhood dev studio pumping out **high-quality, FiveM scripts** like it’s a full-time job (it kinda is).  
+From **hunting and fishing** to full **utility libraries**, we build with performance and extensibility in mind.  
+And yes, we actually document things. Shocking, right?
 
-Welcome to the **official** GitHub for BOII | Development!
+## 🧠 What's Offered Here?
 
-Dive into our rich collection of scripts, made available to you absolutely free of charge!
-  
-At  BOII | Development, we believe in empowering communities and are thrilled to offer a selection of our best creations at no cost.
+This GitHub is home to all of our free, open source resources.  
+It’s a dedicated space for open development, completely separate from our paid offerings over on Tebex.  
+Whether you're learning, building, or just here to peek at the source, you're welcome.
 
-🌟 **Quality Guaranteed:** Our commitment to excellence remains unwavering, irrespective of whether a script is free or paid. Each script is crafted with meticulous attention to detail, ensuring seamless integration and a flawless in-game experience.
+> 💡 Looking for paid scripts or advanced systems? Check out [our store](https://boiidevelopment.tebex.io) for that side of the operation.
 
-🛠️ **Unparalleled Support:** Just because it's free doesn't mean you're on your own! All our free resources come with the same robust level of support as our premium offerings. Should you encounter any hiccups or need assistance, our dedicated team is always ready to help. Simply reach out through our Discord server, and we'll be there to guide you every step of the way.
+## 🧰 Popular Freebies
 
-🔄 **Continuous Updates:** We take pride in keeping our scripts updated and optimized. As the gaming landscape evolves, so do our scripts, ensuring that you always have access to the latest features and improvements.
+- 🪓 **[Hunting](https://github.com/boiidevelopment/boii_hunting)**
+- 🎣 **[Fishing](https://github.com/boiidevelopment/boii_fishing)**
+- 🎨 **[RGB Controller](https://github.com/boiidevelopment/boii_rgbcontroller)**
+- 🕹️ **[Minigames](https://github.com/boiidevelopment/boii_minigames)**
+- 🧰 **[Player List](https://github.com/boiidevelopment/boii_playerlist)**
+- 💬 **[UI Pack](https://github.com/boiidevelopment/boii_ui)**
 
-Start exploring our free scripts today, and elevate your gaming experience to new heights!
+## 📞 Support
 
-## 🕹️ Why choose BOII | Development?
+💬 **[Discord](https://discord.gg/MUckUyS5Kq)**
+- 🕘 **Support Hours:** Mon–Fri, 10AM–10PM GMT  
 
-🎮 **Premier Gaming Resources:** We are dedicated to offering top-tier resources tailored for gaming communities worldwide. Dive into our collection, and you'll have them seamlessly integrated into your server in no time!
+> ⚠️ Please don’t ask for help in unrelated Discords. We won’t see it. We won’t answer..
 
-🛠️ **Customizable & User-friendly:** Every resource we offer boasts a high level of configurability. While we use FiveM's native escrow system for most scripts, we ensure you have the flexibility to tweak them to your preference.
+## 💰 Support Us (If You’re Feeling Generous)
 
-📞 **Always Here for You:** Our Discord support server is buzzing with activity from 10 AM to 10 PM (GMT), Monday to Friday. Should you face any challenges with our resources, our team is just a message away, eager to assist.
+Everything here is and always will be free.  
+But if our code saved you time, sanity, or a broken monitor:
 
-## 🛠️ Support
+☕ **Buy us a coffee:** [Ko-Fi](https://ko-fi.com/boiidevelopment)  
+💡 **Drop a star:** It’s free and inflates our ego  
 
-🛎️ **Join Us on Discord:** For quick support, head over to our [discord](https://discord.gg/MUckUyS5Kq).
+## 🔗 Links
 
-🕙 **Support Hours:** Our Discord support channels are lively between 10am - 10pm GMT from Monday to Friday. While we strive to respond within a business day, we kindly ask for your patience, as responses might take up to five business days in some cases. After all, we're passionate gamers just like you and can't be on call round-the-clock.
+- 🛒 [Tebex Store](https://boiidevelopment.tebex.io) – Paid scripts for when free isn’t enough  
+- 💬 [Discord](https://discord.gg/MUckUyS5Kq) – Support, updates, and vibes  
+- 💾 [GitHub](https://github.com/boiidevelopment) – You’re already here  
+- 📹 [YouTube](https://youtube.com/boiidevelopment) – Demos and dev shorts  
+- ☕ [Ko-Fi](https://ko-fi.com/boiidevelopment) – Buy us caffeine
 
-🚫 **A Gentle Reminder:** Please refrain from seeking support on **BOII | Community** platforms. All official assistance is exclusively available via **BOII | Development** channels.
+---
 
-📬 **Direct Touch:** For specific inquiries, reach us at admin@boii.dev.
+> _We don’t believe in gatekeeping dev tools. We believe in sharing, iterating, and maybe roasting your old code just a little._
 
-## 💰 Support the team
-
-All resources posted to the boiidevelopment GitHub will forever be free.
-If you wish to support the team for providing you with some outstanding free resources then you can do so here. 
-
-☕ **Ko-Fi:** [Click here to buy the team a coffee!](https://ko-fi.com/boiidevelopment)
-
-*This is in no way expected of anyone, however it is greatly appreciated.*
-
-## 💻 Links
-
-💰 **Tebex:** [Click here to view our tebex store!](https://boiidevelopment.tebex.io)
-💬 **Discord:** [Click here to join our discord server!](https://discord.gg/MUckUyS5Kq)
-📹 **YouTube:** [Click here to view our YouTube channel!](https://youtube.com/boiidevelopment)
-💾 **GitHub:** [Click here to view our GitHub resources!](https://github.com/boiidevelopment)
-☕ **Ko-Fi:** [Click here to buy the team a coffee!](https://ko-fi.com/boiidevelopment)
+Enjoy the scripts. Break your server responsibly.
