@@ -1,6 +1,15 @@
-<p align="center">
-  <img width="650" height="250" src="https://i.imgur.com/0VNnFJP.png">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/80e39085-50bd-4873-880e-62ce418e6d84" width="100" title="hover text">
+    </td>
+    <td>
+      <h1>🌟 Welcome to BOII Development!</h1>
+      <p>This github is used to host free open source BOII Dev resources, for paid resources visit https://boiidevelopment.tebex.io</p>
+    </td>
+  </tr>
+</table>
+
 
 ## 👋 About us
 
@@ -28,13 +37,13 @@ Start exploring our free scripts today, and elevate your gaming experience to ne
 
 ## 🛠️ Support
 
-🛎️ **Join Us on Discord:** For quick support, head over to our [discord](https://discord.gg/boiidevelopment).
+🛎️ **Join Us on Discord:** For quick support, head over to our [discord](https://discord.gg/MUckUyS5Kq).
 
 🕙 **Support Hours:** Our Discord support channels are lively between 10am - 10pm GMT from Monday to Friday. While we strive to respond within a business day, we kindly ask for your patience, as responses might take up to five business days in some cases. After all, we're passionate gamers just like you and can't be on call round-the-clock.
 
 🚫 **A Gentle Reminder:** Please refrain from seeking support on **BOII | Community** platforms. All official assistance is exclusively available via **BOII | Development** channels.
 
-📬 **Direct Touch:** For specific inquiries, reach us at support@boii.dev.
+📬 **Direct Touch:** For specific inquiries, reach us at admin@boii.dev.
 
 ## 💰 Support the team
 
@@ -47,12 +56,8 @@ If you wish to support the team for providing you with some outstanding free res
 
 ## 💻 Links
 
-💰 **Tebex:** [Click here to view our tebex store!](https://tebex.boii.dev)
-
-💬 **Discord:** [Click here to join our discord server!](https://discord.gg/boiidevelopment)
-
+💰 **Tebex:** [Click here to view our tebex store!](https://boiidevelopment.tebex.io)
+💬 **Discord:** [Click here to join our discord server!](https://discord.gg/MUckUyS5Kq)
 📹 **YouTube:** [Click here to view our YouTube channel!](https://youtube.com/boiidevelopment)
-
 💾 **GitHub:** [Click here to view our GitHub resources!](https://github.com/boiidevelopment)
-
 ☕ **Ko-Fi:** [Click here to buy the team a coffee!](https://ko-fi.com/boiidevelopment)
