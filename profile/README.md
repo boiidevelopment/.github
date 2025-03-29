@@ -5,7 +5,7 @@
     </td>
     <td>
       <h1>🛠️ BOII Development</h1>
-      <p><em>Home of utility-first, performance-driven FiveM resources.<br>Free, open, and occasionally sarcastic. For paid stuff, head to <a href="https://boiidevelopment.tebex.io">our Tebex store</a></em></p>
+      <p><em>Home of utility-first, performance-driven FiveM resources. Free, open, and occasionally sarcastic. For paid stuff, head to <a href="https://boiidevelopment.tebex.io">our Tebex store</a></em></p>
     </td>
   </tr>
 </table>
@@ -13,8 +13,6 @@
 # 👋 Welcome
 
 Welcome to **BOII Development** — your friendly neighborhood dev studio pumping out **high-quality, FiveM scripts** like it’s a full-time job (it kinda is).  
-From **hunting and fishing** to full **utility libraries**, we build with performance and extensibility in mind.  
-And yes, we actually document things. Shocking, right?
 
 ## 🧠 What's Offered Here?
 
@@ -58,6 +56,6 @@ But if our code saved you time, sanity, or a broken monitor:
 
 ---
 
-> _We don’t believe in gatekeeping dev tools. We believe in sharing, iterating, and maybe roasting your old code just a little._
+_We don’t believe in gatekeeping dev tools. We believe in sharing, iterating, and maybe roasting your old code just a little._
 
-Enjoy the scripts. Break your server responsibly.
+Enjoy the scripts. Break your server responsibly. 👍
