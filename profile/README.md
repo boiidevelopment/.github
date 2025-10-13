@@ -31,29 +31,6 @@ Whether you're learning, building, or just here to peek at the source, you're we
 - 🧰 **[Player List](https://github.com/boiidevelopment/boii_playerlist)**
 - 💬 **[UI Pack](https://github.com/boiidevelopment/boii_ui)**
 
-## 📞 Support
-
-💬 **[Discord](https://discord.gg/MUckUyS5Kq)**
-- 🕘 **Support Hours:** Mon–Fri, 10AM–10PM GMT  
-
-> ⚠️ Please don’t ask for help in unrelated Discords. We won’t see it. We won’t answer..
-
-## 💰 Support Us (If You’re Feeling Generous)
-
-Everything here is and always will be free.  
-But if our code saved you time, sanity, or a broken monitor:
-
-☕ **Buy us a coffee:** [Ko-Fi](https://ko-fi.com/boiidevelopment)  
-💡 **Drop a star:** It’s free and inflates our ego  
-
-## 🔗 Links
-
-- 🛒 [Tebex Store](https://boiidevelopment.tebex.io) – Paid scripts for when free isn’t enough  
-- 💬 [Discord](https://discord.gg/MUckUyS5Kq) – Support, updates, and vibes  
-- 💾 [GitHub](https://github.com/boiidevelopment) – You’re already here  
-- 📹 [YouTube](https://youtube.com/boiidevelopment) – Demos and dev shorts  
-- ☕ [Ko-Fi](https://ko-fi.com/boiidevelopment) – Buy us caffeine
-
 ---
 
 _We don’t believe in gatekeeping dev tools. We believe in sharing, iterating, and maybe roasting your old code just a little._
