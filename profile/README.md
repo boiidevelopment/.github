@@ -1,38 +1,44 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/80e39085-50bd-4873-880e-62ce418e6d84" width="100" title="BOII Development">
+      <img src="https://i.ibb.co/RkHwKSrW/discauthlogo3.png" width="100" title="BOII Development">
     </td>
     <td>
       <h1>🛠️ BOII Development</h1>
-      <p><em>Home of utility-first, performance-driven FiveM resources. Free, open, and occasionally sarcastic. For paid stuff, head to <a href="https://boiidevelopment.tebex.io">our Tebex store</a></em></p>
+      <p><em>Back to basics. Utility-first, performance-driven FiveM resources. For paid releases, head to <a href="https://boii.dev">boii.dev</a></em></p>
     </td>
   </tr>
 </table>
 
-# 👋 Welcome
+# 👋 Welcome Back
 
-Welcome to **BOII Development** — your friendly neighborhood dev studio pumping out **high-quality, FiveM scripts** like it’s a full-time job (it kinda is).  
+**BOII Development** is back and refocused.  
+This is home to actively maintained open-source FiveM tools and systems.
 
-## 🧠 What's Offered Here?
+If you're here looking for old BOII scripts, most have been archived. What remains is what's still supported.  
+If you followed the Playing In Traffic rebrand - welcome back. Same dev, returning to what worked.
 
-This GitHub is home to all of our free, open source resources.  
-It’s a dedicated space for open development, completely separate from our paid offerings over on Tebex.  
-Whether you're learning, building, or just here to peek at the source, you're welcome.
+## 🧰 Current Projects
 
-> 💡 Looking for paid scripts or advanced systems? Check out [our store](https://boiidevelopment.tebex.io) for that side of the operation.
+| Name | Description |
+|------|-------------|
+| [`MGC`](https://github.com/boiidevelopment/mgc) | Minigame Collection - lockpicking, hacking, skillchecks and more |
+| [`APU`](https://github.com/boiidevelopment/apu) | Animation & Prop Utility for FiveM resources |
+| [`ZEN`](https://github.com/boiidevelopment/zen) | Modern, modular server core for CFX platforms |
+| [`GRAFT`](https://github.com/boiidevelopment/graft) | FiveM Script Dev Kit - bridges, utils, server systems |
+| [`PLUCK`](https://github.com/boiidevelopment/pluck) | FiveM UI Kit - DUI, progressbars, notifications |
 
-## 🧰 Popular Freebies
+## 🔗 Links
 
-- 🪓 **[Hunting](https://github.com/boiidevelopment/boii_hunting)**
-- 🎣 **[Fishing](https://github.com/boiidevelopment/boii_fishing)**
-- 🎨 **[RGB Controller](https://github.com/boiidevelopment/boii_rgbcontroller)**
-- 🕹️ **[Minigames](https://github.com/boiidevelopment/boii_minigames)**
-- 🧰 **[Player List](https://github.com/boiidevelopment/boii_playerlist)**
-- 💬 **[UI Pack](https://github.com/boiidevelopment/boii_ui)**
+- **Store** → [boii.dev](https://boii.dev)  
+- **Discord** → [discord.gg/MUckUyS5Kq](https://discord.gg/MUckUyS5Kq)  
+- **Docs** → [boii.dev](https://boii.dev)
+
+## 📞 Support
+
+All support handled through **[Discord](https://discord.gg/MUckUyS5Kq)**.  
+**Support Hours:** Mon–Fri, 10AM–10PM GMT
 
 ---
 
-_We don’t believe in gatekeeping dev tools. We believe in sharing, iterating, and maybe roasting your old code just a little._
-
-Enjoy the scripts. Break your server responsibly. 👍
+_Quality over quantity. Open over closed. Function over flash._
