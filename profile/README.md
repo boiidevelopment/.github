@@ -18,15 +18,20 @@ This is home to actively maintained open-source FiveM tools and systems.
 If you're here looking for old BOII scripts, most have been archived. What remains is what's still supported.  
 If you followed the Playing In Traffic rebrand - welcome back. Same dev, returning to what worked.
 
-## 🧰 Current Projects
+## 🧰 Open Source Projects
+
+All projects listed are MIT licensed.
 
 | Name | Description |
 |------|-------------|
-| [`MGC`](https://github.com/boiidevelopment/mgc) | Minigame Collection - lockpicking, hacking, skillchecks and more |
-| [`APU`](https://github.com/boiidevelopment/apu) | Animation & Prop Utility for FiveM resources |
-| [`ZEN`](https://github.com/boiidevelopment/zen) | Modern, modular server core for CFX platforms |
-| [`GRAFT`](https://github.com/boiidevelopment/graft) | FiveM Script Dev Kit - bridges, utils, server systems |
-| [`PLUCK`](https://github.com/boiidevelopment/pluck) | FiveM UI Kit - DUI, progressbars, notifications |
+| [`GRAFT`](https://github.com/boiidevelopment/graft) | Lua script dev kit - standalone modules for FiveM, with plans to expand to RedM, Love2D, and other Lua environments. |
+| [`MGC`](https://github.com/boiidevelopment/mgc) | FiveM minigame collection - 20+ HTML and canvas based minigames including lockpicking, hacking, hotwiring, and skill checks |
+| [`APU`](https://github.com/boiidevelopment/apu) | FiveM animation and prop utility - developer tool for browsing, testing, and previewing animations and prop attachments in-game |
+| [`ZEN`](https://github.com/boiidevelopment/zen) | FiveM player core - modern, memory safe framework core with a focus on clean architecture and minimal native dependency |
+| [`PLUCK`](https://github.com/boiidevelopment/pluck) | FiveM UI kit - a full suite of data-driven HTML components controlled entirely from Lua tables, making complex interfaces as simple as defining a config |
+| [`DRIP`](https://github.com/boiidevelopment/drip) | FiveM drawn UI pack - native rendered menus, notifications, panels, and input dialogs with no HTML dependency. Client-side rendered and built for performance |
+| [`DAM`](https://github.com/boiidevelopment/dam) | FiveM drawn admin menu - standalone, fully featured admin toolset built on DRIP with player management, bans, warnings, vehicle tools, and live info panels |
+| [`RIG`](https://github.com/boiidevelopment/rig) | FiveM survival framework - Built on my other open source projects to create a single drop in ready survival foundation. |
 
 ## 🔗 Links
 
